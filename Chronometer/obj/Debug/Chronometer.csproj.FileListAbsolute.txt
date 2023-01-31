@@ -1,0 +1,11 @@
+E:\Project\Main\Chronometer\Chronometer\bin\Debug\Chronometer.exe.config
+E:\Project\Main\Chronometer\Chronometer\bin\Debug\Chronometer.exe
+E:\Project\Main\Chronometer\Chronometer\bin\Debug\Chronometer.pdb
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.AssemblyReference.cache
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.SuggestedBindingRedirects.cache
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.Properties.Resources.resources
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.GenerateResource.cache
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.CoreCompileInputs.cache
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.exe
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.pdb
