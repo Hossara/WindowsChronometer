@@ -9,3 +9,7 @@ E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.GenerateRes
 E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.csproj.CoreCompileInputs.cache
 E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.exe
 E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.pdb
+E:\Project\Main\Chronometer\Chronometer\bin\Debug\Chronometer.exe.manifest
+E:\Project\Main\Chronometer\Chronometer\bin\Debug\Chronometer.application
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.exe.manifest
+E:\Project\Main\Chronometer\Chronometer\obj\Debug\Chronometer.application
