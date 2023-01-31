@@ -1,0 +1,11 @@
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.SuggestedBindingRedirects.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cronometer.exe.config
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cronometer.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cronometer.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Cronometer.Properties.Resources.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Cronometer.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Cronometer.pdb
